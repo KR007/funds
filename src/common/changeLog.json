@@ -2,10 +2,23 @@
     "qrcode": "多次被举报违规，无精力建群",
     "tgGroup": "https://t.me/choose_funds",
     "qqGroup": "被违规，已停用！",
-    "tip": null,
-    "htmlTip": "<div>插件小程序版“韭菜计算助手”已上线，欢迎使用！</div><div>本插件是一个开源项目，您的支持是我开发的动力，期待5星好评！</div>去商店评价→ <a target='_Blank' href='https://chrome.google.com/webstore/detail/dhdelcemeednchdmijiocipbjlknndff'>chrome商店</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target='_Blank' href='https://microsoftedge.microsoft.com/addons/detail/kophadiajpobbfoobhclbobddkoindoi'>Microsoft Edge商店</a>",
+    "tip": "由于服务器迁移导致请求地址调整，旧版本将无法使用账号同步等相关服务，请更新最新版！",
+    "htmlTip": "<div style='font-weight:bold'>插件微信小程序版“韭菜计算助手”已支持截图导入，欢迎使用！</div><div>本插件是一个开源项目，您的支持是我开发的动力，期待5星好评！</div>去商店评价→ <a target='_Blank' href='https://chrome.google.com/webstore/detail/dhdelcemeednchdmijiocipbjlknndff'>chrome商店</a>&nbsp;&nbsp;&nbsp;&nbsp;<a target='_Blank' href='https://microsoftedge.microsoft.com/addons/detail/kophadiajpobbfoobhclbobddkoindoi'>Microsoft Edge商店</a>",
     "list": [
         {
+            "version": "3.4.2",
+            "type": 1,
+            "content": [
+                {
+                    "type": 1,
+                    "content": "修复因基金数据较大时，无法同步小程序端数据的问题。"
+                },
+                {
+                    "type": 1,
+                    "content": "详情页增加标记，可展示小程序端加减仓与定投记录。"
+                }
+            ]
+        },{
             "version": "3.4.1",
             "type": 1,
             "content": [
@@ -14,8 +27,7 @@
                     "content": "优化收益计算方式。"
                 }
             ]
-        },
-        {
+        },{
             "version": "3.4.0",
             "type": 1,
             "content": [
@@ -24,8 +36,7 @@
                     "content": "账号服务请求地址调整，旧版本未来将无法登录，请尽快更新。"
                 }
             ]
-        },
-        {
+        },{
             "version": "3.3.7",
             "type": 1,
             "content": [
@@ -58,8 +69,7 @@
                     "content": "独立窗口模式表格滚动与展示优化。"
                 }
             ]
-        },
-        {
+        },{
             "version": "3.3.4",
             "type": 1,
             "content": [
